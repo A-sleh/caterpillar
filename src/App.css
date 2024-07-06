@@ -1,16 +1,32 @@
 
+ /* Global Css  */
+* {
+    text-decoration:  none;
+}
+
+.container {
+    padding: 0  90px;
+    margin: 0 ;
+}
+
+ul {
+    list-style: none;
+}
+
+
+
 /* start Register Page  */
 
 .formContainer {
     display: flex ;
     justify-content: center ;
     align-items: center ;
-    height: 100vh;
+    margin-top: 50px;
 }
 
 .formContainer .register {
-    box-shadow: 0 0px 15px -5px black;
-    border-radius: 25px ;
+    box-shadow: 0 0px 15px -10px black;
+    border-radius: 15px ;
     padding: 15px ;
     width: 30%;
 }
@@ -18,10 +34,11 @@
 .formContainer .register label {
     font-weight: bold;
     font-size: 20px;
+    margin-left: 8px;
 }
 
 .formContainer .register input {
-    border-radius: 10px ;
+    border-radius: 4px ;
     padding: 10px 15px ;
     width: 90%;
     outline: none;
@@ -30,24 +47,33 @@
     margin-bottom: 10px;
 }
 
-.formContainer .register button {
+.formContainer .register button , .register-btn , .login-btn {
     margin: auto ;
-    padding: 10px 15px ;
+    display: block;
+    padding: 8px 28px ;
     background-color: rgb(0, 153, 255);
-    font-size: 18px ;
+    font-size: 16px ;
     font-weight: bold ;
-    border-radius: 10px ;
+    border-radius: 4px ;
     cursor: pointer;
     color: white;
-    border: none;
-    width: 100%;
+    border: 1px white solid;
+    width: fit-content;
+    margin-top: 10px;
     transition: 0.3s;
 }
 
-.formContainer .register button:hover {
+.formContainer .register button:hover , .register-btn:hover , .login-btn:hover {
     background-color: transparent ;
     color: rgb(0, 153, 255) ;
     border: 1px solid rgb(0, 153, 255);
+}
+
+.formContainer .register .error {
+    font-size: 14px ;
+    margin-bottom: 4px;
+    color: red;
+    transition: 0.3ss;
 }
 
 /* end Register Page  */
