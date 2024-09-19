@@ -1,0 +1,4020 @@
+ export const BillysShuntData  = [
+  {
+    "CASE_CATERPILLAR": "0308856 HT1",
+
+    "BOWER/BCA_BEARINGS": 306
+  },
+  {
+    "CASE_CATERPILLAR": "031454 HT",
+
+    "BOWER/BCA_BEARINGS": 8505
+  },
+  {
+    "CASE_CATERPILLAR": "'040007",
+
+    "BOWER/BCA_BEARINGS": 206
+  },
+  {
+    "CASE_CATERPILLAR": "'040500",
+
+    "BOWER/BCA_BEARINGS": 8506
+  },
+  {
+    "CASE_CATERPILLAR": "'042305",
+
+    "BOWER/BCA_BEARINGS": 203
+  },
+  {
+    "CASE_CATERPILLAR": "'042306",
+
+    "BOWER/BCA_BEARINGS": 205
+  },
+  {
+    "CASE_CATERPILLAR": "FH 050104",
+
+    "BOWER/BCA_BEARINGS": 204
+  },
+  {
+    "CASE_CATERPILLAR": "FH 050112",
+
+    "BOWER/BCA_BEARINGS": 8505
+  },
+  {
+    "CASE_CATERPILLAR": "FH 050229",
+
+    "BOWER/BCA_BEARINGS": "FWG 1-1/2R"
+  },
+  {
+    "CASE_CATERPILLAR": "FH 050302  ",
+
+    "BOWER/BCA_BEARINGS": "215 L"
+  },
+
+  {
+    "CASE_CATERPILLAR": "FH 050468",
+
+    "BOWER/BCA_BEARINGS": "PV6363"
+  },
+  {
+    "CASE_CATERPILLAR": "FH 050500",
+
+    "BOWER/BCA_BEARINGS": "NPS 107 RPC"
+  },
+  {
+    "CASE_CATERPILLAR": "FH 051079",
+
+    "BOWER/BCA_BEARINGS": "88506 A"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1A 1471",
+
+    "BOWER/BCA_BEARINGS": "3120 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1A 5879",
+
+    "BOWER/BCA_BEARINGS": "3381 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1A 9538",
+
+    "BOWER/BCA_BEARINGS": "3320 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "2A 2806",
+
+    "BOWER/BCA_BEARINGS": "3320 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "2A 4576",
+
+    "BOWER/BCA_BEARINGS": "3383 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "2A 4576 T",
+
+    "BOWER/BCA_BEARINGS": "3329B CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "2A 4577",
+
+    "BOWER/BCA_BEARINGS": "3577 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "2A 5639",
+
+    "BOWER/BCA_BEARINGS": "35253 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4A 773",
+
+    "BOWER/BCA_BEARINGS": "3551 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4A 4272",
+
+    "BOWER/BCA_BEARINGS": "3520 CUP"
+  },
+
+  {
+    "CASE_CATERPILLAR": "5A 14",
+
+    "BOWER/BCA_BEARINGS": "3520 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "5A 158",
+
+    "BOWER/BCA_BEARINGS": "3578 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5A 159",
+
+    "BOWER/BCA_BEARINGS": "3578 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5A 618",
+
+    "BOWER/BCA_BEARINGS": "3757 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 55",
+
+    "BOWER/BCA_BEARINGS": "3720 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 394",
+
+    "BOWER/BCA_BEARINGS": "3720 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 416",
+
+    "BOWER/BCA_BEARINGS": "3780 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 436",
+
+    "BOWER/BCA_BEARINGS": "3780 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3708",
+
+    "BOWER/BCA_BEARINGS": "5368 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3709",
+
+    "BOWER/BCA_BEARINGS": "5361 CONE"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1B 3711",
+
+    "BOWER/BCA_BEARINGS": "5320 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "5551 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3717",
+
+    "BOWER/BCA_BEARINGS": "5520 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3740",
+
+    "BOWER/BCA_BEARINGS": "5564 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3756",
+
+    "BOWER/BCA_BEARINGS": "5578 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3759",
+
+    "BOWER/BCA_BEARINGS": "5584 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3763",
+
+    "BOWER/BCA_BEARINGS": "6280 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3769",
+
+    "BOWER/BCA_BEARINGS": "6220 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3770",
+
+    "BOWER/BCA_BEARINGS": "6377 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3771",
+
+    "BOWER/BCA_BEARINGS": "6230 CUP"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1B 3772",
+
+    "BOWER/BCA_BEARINGS": "6382 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3835",
+
+    "BOWER/BCA_BEARINGS": "6552 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3843",
+
+    "BOWER/BCA_BEARINGS": "6520 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3849",
+
+    "BOWER/BCA_BEARINGS": "6553 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3867",
+
+    "BOWER/BCA_BEARINGS": "6554 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3868",
+
+    "BOWER/BCA_BEARINGS": "07098 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3879",
+
+    "BOWER/BCA_BEARINGS": "07098 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3880",
+
+    "BOWER/BCA_BEARINGS": "07204 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3882",
+
+    "BOWER/BCA_BEARINGS": "07204 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3883",
+
+    "BOWER/BCA_BEARINGS": "14117A"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3885",
+
+    "BOWER/BCA_BEARINGS": "14117A"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3886",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3886 T",
+
+    "BOWER/BCA_BEARINGS": "14274 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3888",
+
+    "BOWER/BCA_BEARINGS": "14274 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3890",
+
+    "BOWER/BCA_BEARINGS": "14125A"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3890 T",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3891",
+
+    "BOWER/BCA_BEARINGS": "14125A"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3891 T",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3893",
+
+    "BOWER/BCA_BEARINGS": "14283 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3895",
+
+    "BOWER/BCA_BEARINGS": "14283 CUP"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1B 3897 ",
+
+    "BOWER/BCA_BEARINGS": "14131 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3897 T",
+
+    "BOWER/BCA_BEARINGS": "14137A"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3899",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3900",
+
+    "BOWER/BCA_BEARINGS": "14137A"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3900 T",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3901",
+
+    "BOWER/BCA_BEARINGS": "28150 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3901 T",
+
+    "BOWER/BCA_BEARINGS": "28315B CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3903",
+
+    "BOWER/BCA_BEARINGS": "44156 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3905",
+
+    "BOWER/BCA_BEARINGS": "44348 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 3906",
+
+    "BOWER/BCA_BEARINGS": "52387 CONE"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1B 4103",
+
+    "BOWER/BCA_BEARINGS": "J4432CAH"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4107",
+
+    "BOWER/BCA_BEARINGS": "J28 1632"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4107 7",
+
+    "BOWER/BCA_BEARINGS": "J40 1652"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4108",
+
+    "BOWER/BCA_BEARINGS": "J36 3236"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4108 7",
+
+    "BOWER/BCA_BEARINGS": "J6836CH-J36"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4109",
+
+    "BOWER/BCA_BEARINGS": 3236
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4109 6",
+
+    "BOWER/BCA_BEARINGS": "J36 3236"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4110",
+
+    "BOWER/BCA_BEARINGS": "MR 1309 EHL"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4110 6",
+
+    "BOWER/BCA_BEARINGS": 5213
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4111",
+
+    "BOWER/BCA_BEARINGS": "M 1206 EL"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1B 4112",
+
+    "BOWER/BCA_BEARINGS": "3775 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4113",
+
+    "BOWER/BCA_BEARINGS": "3720B CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4114",
+
+    "BOWER/BCA_BEARINGS": 88504
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4115",
+
+    "BOWER/BCA_BEARINGS": 88504
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4115 7",
+
+    "BOWER/BCA_BEARINGS": "3525 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 41186",
+
+    "BOWER/BCA_BEARINGS": "5307 S3"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4117",
+
+    "BOWER/BCA_BEARINGS": "J40 1664"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4117 7",
+
+    "BOWER/BCA_BEARINGS": "J28 1248"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4118",
+
+    "BOWER/BCA_BEARINGS": "MA 1311"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4118 T",
+
+    "BOWER/BCA_BEARINGS": "1310 SS"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1B 4118 4",
+
+    "BOWER/BCA_BEARINGS": "1311 SS"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4118 7",
+
+    "BOWER/BCA_BEARINGS": "1316 SS"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4119",
+
+    "BOWER/BCA_BEARINGS": "1313 SS"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4119 4",
+
+    "BOWER/BCA_BEARINGS": "1312 SS"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4119 7",
+
+    "BOWER/BCA_BEARINGS": "1309 SS"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4120",
+
+    "BOWER/BCA_BEARINGS": "1308 SS"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4120 4",
+
+    "BOWER/BCA_BEARINGS": "1307 SS"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4120 7",
+
+    "BOWER/BCA_BEARINGS": 1209
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4121",
+
+    "BOWER/BCA_BEARINGS": "B 812"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4121 7",
+
+    "BOWER/BCA_BEARINGS": "26274 CUP"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1B 1422",
+
+    "BOWER/BCA_BEARINGS": "26131 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4122 4",
+
+    "BOWER/BCA_BEARINGS": 1209
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4122 7",
+
+    "BOWER/BCA_BEARINGS": "M 1309 EHL"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4123",
+
+    "BOWER/BCA_BEARINGS": "MR 1309"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4123 6",
+
+    "BOWER/BCA_BEARINGS": "M 1311 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4124",
+
+    "BOWER/BCA_BEARINGS": "MR 1311"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4124 5",
+
+    "BOWER/BCA_BEARINGS": "M 1307 L"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4127",
+
+    "BOWER/BCA_BEARINGS": "MAB 1307"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4128",
+
+    "BOWER/BCA_BEARINGS": "42584 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4129",
+
+    "BOWER/BCA_BEARINGS": "42584 CUP"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1B 4130",
+
+    "BOWER/BCA_BEARINGS": "42362 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4132",
+
+    "BOWER/BCA_BEARINGS": "203 SS"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4133",
+
+    "BOWER/BCA_BEARINGS": "1208 S"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4133 4",
+
+    "BOWER/BCA_BEARINGS": "1208 SS3"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4134",
+
+    "BOWER/BCA_BEARINGS": "J24 1232"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4135",
+
+    "BOWER/BCA_BEARINGS": 5306
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4136",
+
+    "BOWER/BCA_BEARINGS": "02877 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4137",
+
+    "BOWER/BCA_BEARINGS": "02820 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4138",
+
+    "BOWER/BCA_BEARINGS": "02820  CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4139",
+
+    "BOWER/BCA_BEARINGS": 34
+  },
+
+  {
+    "CASE_CATERPILLAR": "1B 4140",
+
+    "BOWER/BCA_BEARINGS": 34
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4142",
+
+    "BOWER/BCA_BEARINGS": "M303"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4143",
+
+    "BOWER/BCA_BEARINGS": "02872 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4143 T",
+
+    "BOWER/BCA_BEARINGS": "02872 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4144",
+
+    "BOWER/BCA_BEARINGS": "MU 1310"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4145",
+
+    "BOWER/BCA_BEARINGS": "MU 1309 LT"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4152",
+
+    "BOWER/BCA_BEARINGS": "MU 1313 L"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4152 T",
+
+    "BOWER/BCA_BEARINGS": "M 1313 CHW"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4153",
+
+    "BOWER/BCA_BEARINGS": "M1309 CH"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4154",
+
+    "BOWER/BCA_BEARINGS": "MU 1312 L"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1B 4194",
+
+    "BOWER/BCA_BEARINGS": "M 1312 CH"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4368",
+
+    "BOWER/BCA_BEARINGS": "MU 1320 L"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 1320 CH"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4369",
+
+    "BOWER/BCA_BEARINGS": "M 1314 CH"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4370",
+
+    "BOWER/BCA_BEARINGS": "MU 1310 L"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4372",
+
+    "BOWER/BCA_BEARINGS": "M 1310 CH"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4622",
+
+    "BOWER/BCA_BEARINGS": "MU 1314 L"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4719",
+
+    "BOWER/BCA_BEARINGS": "M 1206 EL "
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4720",
+
+    "BOWER/BCA_BEARINGS": "B 1816"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 4814",
+
+    "BOWER/BCA_BEARINGS": "02875 CONE"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1B 5338",
+
+    "BOWER/BCA_BEARINGS": "B 1012"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 5382",
+
+    "BOWER/BCA_BEARINGS": "J40 1652"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 5384",
+
+    "BOWER/BCA_BEARINGS": "B 47"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "200 SS"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 5384 T",
+
+    "BOWER/BCA_BEARINGS": "43125 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "43312 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 5385",
+
+    "BOWER/BCA_BEARINGS": "38 SS"
+  },
+  {
+    "CASE_CATERPILLAR": "1B 5387",
+
+    "BOWER/BCA_BEARINGS": "NB 3"
+  },
+
+  {
+    "CASE_CATERPILLAR": "6B 323",
+
+    "BOWER/BCA_BEARINGS": "6382-6320"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 464",
+
+    "BOWER/BCA_BEARINGS": "5318 X3"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 528",
+
+    "BOWER/BCA_BEARINGS": "1312 SS"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 812",
+
+    "BOWER/BCA_BEARINGS": "1314 SS"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 912",
+
+    "BOWER/BCA_BEARINGS": "5212 WL3"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 913",
+
+    "BOWER/BCA_BEARINGS": "J32 2064"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 924",
+
+    "BOWER/BCA_BEARINGS": "J32 1664"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 926",
+
+    "BOWER/BCA_BEARINGS": "5318 X3"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 1089",
+
+    "BOWER/BCA_BEARINGS": "3783 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 1124",
+
+    "BOWER/BCA_BEARINGS": "372A CUP"
+  },
+
+  {
+    "CASE_CATERPILLAR": "6B 1322",
+
+    "BOWER/BCA_BEARINGS": "375 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "308 S"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 1622",
+
+    "BOWER/BCA_BEARINGS": 117
+  },
+  {
+    "CASE_CATERPILLAR": "6B 2688",
+
+    "BOWER/BCA_BEARINGS": "309 SL"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 2689",
+
+    "BOWER/BCA_BEARINGS": "212 S"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 2695",
+
+    "BOWER/BCA_BEARINGS": "MR 1205"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 3183",
+
+    "BOWER/BCA_BEARINGS": 5204
+  },
+  {
+    "CASE_CATERPILLAR": "6B 3223",
+
+    "BOWER/BCA_BEARINGS": "5206 WS"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 3223 T",
+
+    "BOWER/BCA_BEARINGS": "MU 1215 L"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 3224",
+
+    "BOWER/BCA_BEARINGS": "1313 S"
+  },
+
+  {
+    "CASE_CATERPILLAR": "6B 3224 T",
+
+    "BOWER/BCA_BEARINGS": "222 L3"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 3797",
+
+    "BOWER/BCA_BEARINGS": "5220 L"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 3802",
+
+    "BOWER/BCA_BEARINGS": 5216
+  },
+  {
+    "CASE_CATERPILLAR": "6B 3824",
+
+    "BOWER/BCA_BEARINGS": 122016
+  },
+  {
+    "CASE_CATERPILLAR": "6B 3824 T",
+
+    "BOWER/BCA_BEARINGS": "206 S"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 3924",
+
+    "BOWER/BCA_BEARINGS": 206
+  },
+  {
+    "CASE_CATERPILLAR": "6B 4369",
+
+    "BOWER/BCA_BEARINGS": 204
+  },
+  {
+    "CASE_CATERPILLAR": "6B 4370",
+
+    "BOWER/BCA_BEARINGS": 203
+  },
+  {
+    "CASE_CATERPILLAR": "6B 4851",
+
+    "BOWER/BCA_BEARINGS": 201
+  },
+  {
+    "CASE_CATERPILLAR": "6B 4852",
+
+    "BOWER/BCA_BEARINGS": 1305
+  },
+
+  {
+    "CASE_CATERPILLAR": "6B 4947",
+
+    "BOWER/BCA_BEARINGS": 204
+  },
+  {
+    "CASE_CATERPILLAR": "6B 5067",
+
+    "BOWER/BCA_BEARINGS": 304
+  },
+  {
+    "CASE_CATERPILLAR": "6B 5068",
+
+    "BOWER/BCA_BEARINGS": "304 SS3"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 5069",
+
+    "BOWER/BCA_BEARINGS": "MU 1026 L"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 5153",
+
+    "BOWER/BCA_BEARINGS": "M 1026 DH"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 5154",
+
+    "BOWER/BCA_BEARINGS": "MR 1314 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 5158",
+
+    "BOWER/BCA_BEARINGS": ""
+  },
+  {
+    "CASE_CATERPILLAR": "6B 5158 T",
+
+    "BOWER/BCA_BEARINGS": "M 1310 DH"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 5162",
+
+    "BOWER/BCA_BEARINGS": "83225 33872"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 5163",
+
+    "BOWER/BCA_BEARINGS": "Y1S33472"
+  },
+
+  {
+    "CASE_CATERPILLAR": "6B 5164",
+
+    "BOWER/BCA_BEARINGS": "28580 28521"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 5328",
+
+    "BOWER/BCA_BEARINGS": "Y1S285213"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 6328",
+
+    "BOWER/BCA_BEARINGS": "3979 3920"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 6627",
+
+    "BOWER/BCA_BEARINGS": "Y3S3920"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 7645",
+
+    "BOWER/BCA_BEARINGS": "MA 1313"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 7734",
+
+    "BOWER/BCA_BEARINGS": " M 5208 CA"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 8295",
+
+    "BOWER/BCA_BEARINGS": "866 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 8299",
+
+    "BOWER/BCA_BEARINGS": "9285 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "6B 9243",
+
+    "BOWER/BCA_BEARINGS": "854 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 357",
+
+    "BOWER/BCA_BEARINGS": "9220 CU["
+  },
+
+  {
+    "CASE_CATERPILLAR": "7B 358",
+
+    "BOWER/BCA_BEARINGS": "M 1312 SAH"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 917",
+
+    "BOWER/BCA_BEARINGS": "M 1312 X"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 918",
+
+    "BOWER/BCA_BEARINGS": "M 1212 CH"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 925",
+
+    "BOWER/BCA_BEARINGS": "M 1215 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 926",
+
+    "BOWER/BCA_BEARINGS": "07100 07196"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 1059",
+
+    "BOWER/BCA_BEARINGS": "Y2S07196"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 1263",
+
+    "BOWER/BCA_BEARINGS": "MU 1214 L"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 1410",
+
+    "BOWER/BCA_BEARINGS": "MR 1206"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 1605",
+
+    "BOWER/BCA_BEARINGS": "M 1214 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 2320",
+
+    "BOWER/BCA_BEARINGS": "M 1207 DAH"
+  },
+
+  {
+    "CASE_CATERPILLAR": "7B 2380",
+
+    "BOWER/BCA_BEARINGS": "211 X3"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 2381",
+
+    "BOWER/BCA_BEARINGS": "28580 28526"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 2887",
+
+    "BOWER/BCA_BEARINGS": "Y1S28526"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "R 1547 CAH"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 2888",
+
+    "BOWER/BCA_BEARINGS": "RU 1547 L"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 2889",
+
+    "BOWER/BCA_BEARINGS": "M 1309 CAH"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 7313 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 3140",
+
+    "BOWER/BCA_BEARINGS": "R1545 SAH"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 3642",
+
+    "BOWER/BCA_BEARINGS": "RU 1545 L"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 3643",
+
+    "BOWER/BCA_BEARINGS": "67920 CUP"
+  },
+
+  {
+    "CASE_CATERPILLAR": "7B 3812",
+
+    "BOWER/BCA_BEARINGS": "67983 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 4047",
+
+    "BOWER/BCA_BEARINGS": "67820 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 4149",
+
+    "BOWER/BCA_BEARINGS": "67885 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 4346",
+
+    "BOWER/BCA_BEARINGS": "MOJ 5214"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 4791",
+
+    "BOWER/BCA_BEARINGS": "MOJ 5308"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 4956",
+
+    "BOWER/BCA_BEARINGS": "95475 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 5670",
+
+    "BOWER/BCA_BEARINGS": "A 1544"
+  },
+  {
+    "CASE_CATERPILLAR": "7B 7423",
+
+    "BOWER/BCA_BEARINGS": "MU 5210 L"
+  },
+
+  {
+    "CASE_CATERPILLAR": "3D 8984",
+
+    "BOWER/BCA_BEARINGS": "JM 714249"
+  },
+  {
+    "CASE_CATERPILLAR": "3D 9058",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "JM714210"
+  },
+  {
+    "CASE_CATERPILLAR": "3D 9059",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "JM720210"
+  },
+  {
+    "CASE_CATERPILLAR": "3D 9124",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "3D 9125",
+
+    "BOWER/BCA_BEARINGS": "JM720249"
+  },
+  {
+    "CASE_CATERPILLAR": "3D 9125 T",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "3D 9126",
+
+    "BOWER/BCA_BEARINGS": "48290 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "3D 9126 T",
+
+    "BOWER/BCA_BEARINGS": "78215 CONE"
+  },
+
+  {
+    "CASE_CATERPILLAR": "3D 9132",
+
+    "BOWER/BCA_BEARINGS": "78551 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M252349"
+  },
+  {
+    "CASE_CATERPILLAR": "3D 9133",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M252330"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 451",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M252310"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 452",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "42620 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 1039",
+
+    "BOWER/BCA_BEARINGS": "42687 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "77362 CONE"
+  },
+
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "77675 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "310 S"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 1042",
+
+    "BOWER/BCA_BEARINGS": "5735 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 2156",
+
+    "BOWER/BCA_BEARINGS": "5760 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 2182",
+
+    "BOWER/BCA_BEARINGS": "938 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 3151",
+
+    "BOWER/BCA_BEARINGS": 8503
+  },
+  {
+    "CASE_CATERPILLAR": "4D 3152",
+
+    "BOWER/BCA_BEARINGS": 212
+  },
+  {
+    "CASE_CATERPILLAR": "4D 3153",
+
+    "BOWER/BCA_BEARINGS": "B 108"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 3154",
+
+    "BOWER/BCA_BEARINGS": "B 88"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 3155",
+
+    "BOWER/BCA_BEARINGS": "J32 1264"
+  },
+
+  {
+    "CASE_CATERPILLAR": "4D 3393",
+
+    "BOWER/BCA_BEARINGS": "B 2420"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 3393 T",
+
+    "BOWER/BCA_BEARINGS": "W 306 DD"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 3463",
+
+    "BOWER/BCA_BEARINGS": 204
+  },
+  {
+    "CASE_CATERPILLAR": "4D 3848",
+
+    "BOWER/BCA_BEARINGS": "843 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 3848 T",
+
+    "BOWER/BCA_BEARINGS": "832 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 3882",
+
+    "BOWER/BCA_BEARINGS": "850 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 3882 T",
+
+    "BOWER/BCA_BEARINGS": "R 6"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 3883",
+
+    "BOWER/BCA_BEARINGS": "R 8"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 3883 T",
+
+    "BOWER/BCA_BEARINGS": "532X CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 4324",
+
+    "BOWER/BCA_BEARINGS": "344 CONE"
+  },
+
+  {
+    "CASE_CATERPILLAR": "4D 4325",
+
+    "BOWER/BCA_BEARINGS": "B 55"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "5211 W"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 4489",
+
+    "BOWER/BCA_BEARINGS": "5211 W"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "3981 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "5215 W"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "5211 W"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "J48 2026"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 4518",
+
+    "BOWER/BCA_BEARINGS": 305
+  },
+  {
+    "CASE_CATERPILLAR": "4D 7526",
+
+    "BOWER/BCA_BEARINGS": 305
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "J78 2039"
+  },
+
+  {
+    "CASE_CATERPILLAR": "4D 7534",
+
+    "BOWER/BCA_BEARINGS": "J114 2029"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "MU 1318 L"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 1313 EHL"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 1318 CH"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "B 1316"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 7670",
+
+    "BOWER/BCA_BEARINGS": "MA 5212"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 5212 EHL"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 7887",
+
+    "BOWER/BCA_BEARINGS": "359S CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "359S CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "T 188"
+  },
+
+  {
+    "CASE_CATERPILLAR": "4D 7947",
+
+    "BOWER/BCA_BEARINGS": "B 2824"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "25521 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "25521 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 7951",
+
+    "BOWER/BCA_BEARINGS": "25584 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "25584 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 7952",
+
+    "BOWER/BCA_BEARINGS": "MA 1314"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 1314 EL"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 7953",
+
+    "BOWER/BCA_BEARINGS": "MU 5211 L"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 7954",
+
+    "BOWER/BCA_BEARINGS": 5220
+  },
+  {
+    "CASE_CATERPILLAR": "4D 7955",
+
+    "BOWER/BCA_BEARINGS": "M 1316 EHL"
+  },
+
+  {
+    "CASE_CATERPILLAR": "4D 7956",
+
+    "BOWER/BCA_BEARINGS": "J36 1256"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 7995",
+
+    "BOWER/BCA_BEARINGS": "B8503"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 7997",
+
+    "BOWER/BCA_BEARINGS": "J128 2446"
+  },
+  {
+    "CASE_CATERPILLAR": "4D 8132",
+
+    "BOWER/BCA_BEARINGS": "MU 5307 L"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "MA 5208"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": 6160
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "82931 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "82576 CONE"
+  },
+
+  {
+    "CASE_CATERPILLAR": "4F 2116",
+
+    "BOWER/BCA_BEARINGS": "354 A CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 2128",
+
+    "BOWER/BCA_BEARINGS": "M 1221 EL"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 2129",
+
+    "BOWER/BCA_BEARINGS": "HH926749"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 2129 T",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 2342",
+
+    "BOWER/BCA_BEARINGS": "HH926710"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 2392",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 2393",
+
+    "BOWER/BCA_BEARINGS": "HH231649"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 2444",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 2447",
+
+    "BOWER/BCA_BEARINGS": "HH923649"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 2673",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+
+  {
+    "CASE_CATERPILLAR": "4F 2926",
+
+    "BOWER/BCA_BEARINGS": "HH923610"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 2956",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 2997",
+
+    "BOWER/BCA_BEARINGS": "HM926740"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 3189",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": 122
+  },
+  {
+    "CASE_CATERPILLAR": "4F 3286",
+
+    "BOWER/BCA_BEARINGS": 87605
+  },
+  {
+    "CASE_CATERPILLAR": "4F 3287",
+
+    "BOWER/BCA_BEARINGS": "HH231615"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 3335",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 3335 O",
+
+    "BOWER/BCA_BEARINGS": "HH221434"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 4601",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+
+  {
+    "CASE_CATERPILLAR": "4F 4605",
+
+    "BOWER/BCA_BEARINGS": "MU 1026 DHL"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 4650",
+
+    "BOWER/BCA_BEARINGS": ""
+  },
+  {
+    "CASE_CATERPILLAR": "4F 4681",
+
+    "BOWER/BCA_BEARINGS": "M 16121 OH"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "B 1612"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 4682",
+
+    "BOWER/BCA_BEARINGS": "74537 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 4683",
+
+    "BOWER/BCA_BEARINGS": "74550 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 4992",
+
+    "BOWER/BCA_BEARINGS": "74850 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 4993",
+
+    "BOWER/BCA_BEARINGS": "J92 3242"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 5037",
+
+    "BOWER/BCA_BEARINGS": "MU 1218 V"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 5040",
+
+    "BOWER/BCA_BEARINGS": "B 1212 OH"
+  },
+
+  {
+    "CASE_CATERPILLAR": "4F 5121",
+
+    "BOWER/BCA_BEARINGS": "532X CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 5273",
+
+    "BOWER/BCA_BEARINGS": "T 151"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 5345",
+
+    "BOWER/BCA_BEARINGS": "XC1475CA"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 5558",
+
+    "BOWER/BCA_BEARINGS": " 382A"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 6130",
+
+    "BOWER/BCA_BEARINGS": "  Y1S382A"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 6131",
+
+    "BOWER/BCA_BEARINGS": "496DA 493"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 6925",
+
+    "BOWER/BCA_BEARINGS": " Y6S493"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 7499",
+
+    "BOWER/BCA_BEARINGS": "MA 5220"
+  },
+  {
+    "CASE_CATERPILLAR": "4F 7499 T",
+
+    "BOWER/BCA_BEARINGS": "5313 WL"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 255",
+
+    "BOWER/BCA_BEARINGS": "5312 WL3"
+  },
+
+  {
+    "CASE_CATERPILLAR": "5F 585",
+
+    "BOWER/BCA_BEARINGS": "5315 X3"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 585 T",
+
+    "BOWER/BCA_BEARINGS": "MA 1218"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 589",
+
+    "BOWER/BCA_BEARINGS": "M 1316 EHL"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 589 T",
+
+    "BOWER/BCA_BEARINGS": "207 FF3"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 694",
+
+    "BOWER/BCA_BEARINGS": 208
+  },
+  {
+    "CASE_CATERPILLAR": "5F 1248",
+
+    "BOWER/BCA_BEARINGS": "309 DD"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 1372",
+
+    "BOWER/BCA_BEARINGS": "A 988"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 2462",
+
+    "BOWER/BCA_BEARINGS": 204
+  },
+  {
+    "CASE_CATERPILLAR": "5F 2464",
+
+    "BOWER/BCA_BEARINGS": 313
+  },
+  {
+    "CASE_CATERPILLAR": "5F 2465",
+
+    "BOWER/BCA_BEARINGS": "304 D"
+  },
+
+  {
+    "CASE_CATERPILLAR": "5F 2466",
+
+    "BOWER/BCA_BEARINGS": "204 F"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 2715",
+
+    "BOWER/BCA_BEARINGS": 111
+  },
+  {
+    "CASE_CATERPILLAR": "5F 2830",
+
+    "BOWER/BCA_BEARINGS": "MAB 1217"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 3171",
+
+    "BOWER/BCA_BEARINGS": "MU 1017 L"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 3174",
+
+    "BOWER/BCA_BEARINGS": "M 1017 S"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 3928",
+
+    "BOWER/BCA_BEARINGS": "M231610"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 4045",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 5049",
+
+    "BOWER/BCA_BEARINGS": "XC21396C"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 5050",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 5051",
+
+    "BOWER/BCA_BEARINGS": "M231649"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 5304",
+
+    "BOWER/BCA_BEARINGS": "XC2097C"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 5359",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 5363",
+
+    "BOWER/BCA_BEARINGS": "67787 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 5373",
+
+    "BOWER/BCA_BEARINGS": "RU 1523 L"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 5422",
+
+    "BOWER/BCA_BEARINGS": "R 1523 CH"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 5632",
+
+    "BOWER/BCA_BEARINGS": "M 1318 EHL"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 6358",
+
+    "BOWER/BCA_BEARINGS": "MR 1318"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 7571",
+
+    "BOWER/BCA_BEARINGS": "R 1522 EHL"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 7574",
+
+    "BOWER/BCA_BEARINGS": "RR 1522"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 7771",
+
+    "BOWER/BCA_BEARINGS": "M919049"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": " K62458"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 7786",
+
+    "BOWER/BCA_BEARINGS": "  M919049XB"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 8651",
+
+    "BOWER/BCA_BEARINGS": "29675 29620"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 9049",
+
+    "BOWER/BCA_BEARINGS": " Y1S29620"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 9688",
+
+    "BOWER/BCA_BEARINGS": "67787 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 9713",
+
+    "BOWER/BCA_BEARINGS": "3984 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5F 9714",
+
+    "BOWER/BCA_BEARINGS": "532X CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "6F 511",
+
+    "BOWER/BCA_BEARINGS": "M 5209 EL"
+  },
+  {
+    "CASE_CATERPILLAR": "6F 1622",
+
+    "BOWER/BCA_BEARINGS": "78551 CUP"
+  },
+
+  {
+    "CASE_CATERPILLAR": "2H 6782",
+
+    "BOWER/BCA_BEARINGS": "M 1316 EL"
+  },
+  {
+    "CASE_CATERPILLAR": "2H 6994",
+
+    "BOWER/BCA_BEARINGS": "MA 1316"
+  },
+  {
+    "CASE_CATERPILLAR": "2H 7009",
+
+    "BOWER/BCA_BEARINGS": "M 5314 EHL"
+  },
+  {
+    "CASE_CATERPILLAR": "2H 7907",
+
+    "BOWER/BCA_BEARINGS": "MA 5314"
+  },
+  {
+    "CASE_CATERPILLAR": "2H 8270",
+
+    "BOWER/BCA_BEARINGS": "33251 78250"
+  },
+  {
+    "CASE_CATERPILLAR": "2H 8337",
+
+    "BOWER/BCA_BEARINGS": " -K93494"
+  },
+  {
+    "CASE_CATERPILLAR": "2H 9060",
+
+    "BOWER/BCA_BEARINGS": "   X1S33251"
+  },
+  {
+    "CASE_CATERPILLAR": "2H 9079",
+
+    "BOWER/BCA_BEARINGS": "207 F"
+  },
+  {
+    "CASE_CATERPILLAR": "2H 9079 1",
+
+    "BOWER/BCA_BEARINGS": "M 1924 DAH"
+  },
+  {
+    "CASE_CATERPILLAR": "2H 9079 T",
+
+    "BOWER/BCA_BEARINGS": "MR 1209"
+  },
+
+  {
+    "CASE_CATERPILLAR": "2H 9192",
+
+    "BOWER/BCA_BEARINGS": "XLS4-3/4"
+  },
+  {
+    "CASE_CATERPILLAR": "3H 1011",
+
+    "BOWER/BCA_BEARINGS": "M 1315 CAH"
+  },
+  {
+    "CASE_CATERPILLAR": "3H 1012",
+
+    "BOWER/BCA_BEARINGS": "M 1321 DAH"
+  },
+  {
+    "CASE_CATERPILLAR": "3H 1013",
+
+    "BOWER/BCA_BEARINGS": "MSBD 1922"
+  },
+  {
+    "CASE_CATERPILLAR": "3H 1013 T",
+
+    "BOWER/BCA_BEARINGS": "EBL"
+  },
+  {
+    "CASE_CATERPILLAR": "3H 1996",
+
+    "BOWER/BCA_BEARINGS": "M 5206 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "3H 4026",
+
+    "BOWER/BCA_BEARINGS": "M 1206 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "MD 1206"
+  },
+  {
+    "CASE_CATERPILLAR": "3H 4123",
+
+    "BOWER/BCA_BEARINGS": "MS 1206"
+  },
+  {
+    "CASE_CATERPILLAR": "3H 5306",
+
+    "BOWER/BCA_BEARINGS": "MU 7313 L"
+  },
+
+  {
+    "CASE_CATERPILLAR": "3H 5307",
+
+    "BOWER/BCA_BEARINGS": "M 7313 CB"
+  },
+  {
+    "CASE_CATERPILLAR": "3H 5308",
+
+    "BOWER/BCA_BEARINGS": "MU 1026 L"
+  },
+  {
+    "CASE_CATERPILLAR": "3H 6255",
+
+    "BOWER/BCA_BEARINGS": "M 1026 DH"
+  },
+  {
+    "CASE_CATERPILLAR": "3H 9497",
+
+    "BOWER/BCA_BEARINGS": "MU 1030 L"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 1030 DH"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "6535 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 19",
+
+    "BOWER/BCA_BEARINGS": "6576 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 22",
+
+    "BOWER/BCA_BEARINGS": "09067 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 39",
+
+    "BOWER/BCA_BEARINGS": "09067 CONE "
+  },
+  {
+    "CASE_CATERPILLAR": "4H 4125",
+
+    "BOWER/BCA_BEARINGS": "14136AA"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 4259",
+
+    "BOWER/BCA_BEARINGS": "14136AA"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 4260",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 4261",
+
+    "BOWER/BCA_BEARINGS": "14276 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 4272",
+
+    "BOWER/BCA_BEARINGS": "14276 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 4273",
+
+    "BOWER/BCA_BEARINGS": "09195 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 4493",
+
+    "BOWER/BCA_BEARINGS": "09195 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 4615",
+
+    "BOWER/BCA_BEARINGS": "6580 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 4941",
+
+    "BOWER/BCA_BEARINGS": "A 1661"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 5416",
+
+    "BOWER/BCA_BEARINGS": "M 1209 CAH"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 1209 DAH"
+  },
+
+  {
+    "CASE_CATERPILLAR": "4H 6016",
+
+    "BOWER/BCA_BEARINGS": "M 1212 DAH"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 6420",
+
+    "BOWER/BCA_BEARINGS": "MR 1212"
+  },
+  {
+    "CASE_CATERPILLAR": "H4 6490",
+
+    "BOWER/BCA_BEARINGS": "M 1212 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 6502",
+
+    "BOWER/BCA_BEARINGS": "99100 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 6504",
+
+    "BOWER/BCA_BEARINGS": "941 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 6618",
+
+    "BOWER/BCA_BEARINGS": "99550 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 6689",
+
+    "BOWER/BCA_BEARINGS": "MU 1305 L"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 6957",
+
+    "BOWER/BCA_BEARINGS": "MR 1307"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 7004",
+
+    "BOWER/BCA_BEARINGS": "66462 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 7506",
+
+    "BOWER/BCA_BEARINGS": "66225 CONE"
+  },
+
+  {
+    "CASE_CATERPILLAR": "4H 7666",
+
+    "BOWER/BCA_BEARINGS": "ME 1209 B"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 7701",
+
+    "BOWER/BCA_BEARINGS": "M 1307 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 9018",
+
+    "BOWER/BCA_BEARINGS": "MR 1307"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 9019",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4H 9065",
+
+    "BOWER/BCA_BEARINGS": "MR 1211"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 239",
+
+    "BOWER/BCA_BEARINGS": "M 1211 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 415",
+
+    "BOWER/BCA_BEARINGS": "107105 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 494",
+
+    "BOWER/BCA_BEARINGS": "EE107105"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 1619",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 1620",
+
+    "BOWER/BCA_BEARINGS": "HH224335"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 1621",
+
+    "BOWER/BCA_BEARINGS": "HH224310"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 1622",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 1623",
+
+    "BOWER/BCA_BEARINGS": "71437 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 1624",
+
+    "BOWER/BCA_BEARINGS": "593A CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 1901",
+
+    "BOWER/BCA_BEARINGS": "941 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 3030",
+
+    "BOWER/BCA_BEARINGS": "HH224346"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 3264",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 3265",
+
+    "BOWER/BCA_BEARINGS": "HM237532"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 3266",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 3267",
+
+    "BOWER/BCA_BEARINGS": "HM237510"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 4325",
+
+    "BOWER/BCA_BEARINGS": "95475 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 4779",
+
+    "BOWER/BCA_BEARINGS": "95925 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 4781",
+
+    "BOWER/BCA_BEARINGS": "39520 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 4853",
+
+    "BOWER/BCA_BEARINGS": "39580 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 4853 T ",
+
+    "BOWER/BCA_BEARINGS": "HM237542"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 4854",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5H 5100",
+
+    "BOWER/BCA_BEARINGS": "HM237510 "
+  },
+  {
+    "CASE_CATERPILLAR": "5H 5310",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+
+  {
+    "CASE_CATERPILLAR": "2K 5254",
+
+    "BOWER/BCA_BEARINGS": "XLS 2 3/8"
+  },
+  {
+    "CASE_CATERPILLAR": "2K 6044",
+
+    "BOWER/BCA_BEARINGS": "1215 L3"
+  },
+  {
+    "CASE_CATERPILLAR": "2K 8023",
+
+    "BOWER/BCA_BEARINGS": "222 L3"
+  },
+  {
+    "CASE_CATERPILLAR": "2K 9295",
+
+    "BOWER/BCA_BEARINGS": "203 X3"
+  },
+  {
+    "CASE_CATERPILLAR": "2K 9295 T",
+
+    "BOWER/BCA_BEARINGS": "M 1216 EHL"
+  },
+  {
+    "CASE_CATERPILLAR": "2K 9296",
+
+    "BOWER/BCA_BEARINGS": "9285 - 9220"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 526",
+
+    "BOWER/BCA_BEARINGS": " Y2S9220"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 649",
+
+    "BOWER/BCA_BEARINGS": "306 S"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 650",
+
+    "BOWER/BCA_BEARINGS": 87511
+  },
+  {
+    "CASE_CATERPILLAR": "3K 650 T",
+
+    "BOWER/BCA_BEARINGS": "1208 L3"
+  },
+
+  {
+    "CASE_CATERPILLAR": "3K 2518",
+
+    "BOWER/BCA_BEARINGS": "5316 X3"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 2877",
+
+    "BOWER/BCA_BEARINGS": "310 S"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": 7035
+  },
+  {
+    "CASE_CATERPILLAR": "3K 2878",
+
+    "BOWER/BCA_BEARINGS": "WC 8605"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": 306
+  },
+  {
+    "CASE_CATERPILLAR": "3K 3036",
+
+    "BOWER/BCA_BEARINGS": "313 S3"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 3186",
+
+    "BOWER/BCA_BEARINGS": "MA 1216"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 3192",
+
+    "BOWER/BCA_BEARINGS": "W 311 CC"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 3193",
+
+    "BOWER/BCA_BEARINGS": "203 FF"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 3522",
+
+    "BOWER/BCA_BEARINGS": "203 FF"
+  },
+
+  {
+    "CASE_CATERPILLAR": "3K 3633",
+
+    "BOWER/BCA_BEARINGS": "204 FF"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 3963",
+
+    "BOWER/BCA_BEARINGS": "313 S"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 3964",
+
+    "BOWER/BCA_BEARINGS": 307
+  },
+  {
+    "CASE_CATERPILLAR": "3K 4060",
+
+    "BOWER/BCA_BEARINGS": "795-792D"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 5595",
+
+    "BOWER/BCA_BEARINGS": " X2S795"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 5596",
+
+    "BOWER/BCA_BEARINGS": "MA 1222"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 6156",
+
+    "BOWER/BCA_BEARINGS": "MA1313"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 6374",
+
+    "BOWER/BCA_BEARINGS": "HM926740"
+  },
+  {
+    "CASE_CATERPILLAR": "3K 6396",
+
+    "BOWER/BCA_BEARINGS": " HM926710"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "  HM926710EE"
+  },
+
+  {
+    "CASE_CATERPILLAR": "3K 9662",
+
+    "BOWER/BCA_BEARINGS": "3979 - 3925"
+  },
+  {
+    "CASE_CATERPILLAR": "4K 138",
+
+    "BOWER/BCA_BEARINGS": " X2S3979"
+  },
+  {
+    "CASE_CATERPILLAR": "4K 551",
+
+    "BOWER/BCA_BEARINGS": "M5312 EHL"
+  },
+  {
+    "CASE_CATERPILLAR": "4K 560",
+
+    "BOWER/BCA_BEARINGS": "MA 5312"
+  },
+  {
+    "CASE_CATERPILLAR": "4K 1558",
+
+    "BOWER/BCA_BEARINGS": "311 S"
+  },
+  {
+    "CASE_CATERPILLAR": "4K 5080",
+
+    "BOWER/BCA_BEARINGS": 2759
+  },
+  {
+    "CASE_CATERPILLAR": "4K 5246",
+
+    "BOWER/BCA_BEARINGS": "1211 S3"
+  },
+  {
+    "CASE_CATERPILLAR": "4K 5440",
+
+    "BOWER/BCA_BEARINGS": "39520 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "4K 5842",
+
+    "BOWER/BCA_BEARINGS": "39520 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "39590 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "4K 5842 T",
+
+    "BOWER/BCA_BEARINGS": "39590 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 1222 EHL"
+  },
+  {
+    "CASE_CATERPILLAR": "4K 5843",
+
+    "BOWER/BCA_BEARINGS": "5309 WSL3"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "312 DD"
+  },
+  {
+    "CASE_CATERPILLAR": "4K 7296",
+
+    "BOWER/BCA_BEARINGS": "R 6"
+  },
+  {
+    "CASE_CATERPILLAR": "4K 7297",
+
+    "BOWER/BCA_BEARINGS": "MU 5214 CAL"
+  },
+  {
+    "CASE_CATERPILLAR": "4K 7467",
+
+    "BOWER/BCA_BEARINGS": ""
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "1213 L3"
+  },
+  {
+    "CASE_CATERPILLAR": "5K 985",
+
+    "BOWER/BCA_BEARINGS": "1218 L3"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "W 207 CC"
+  },
+
+  {
+    "CASE_CATERPILLAR": "5K 1049",
+
+    "BOWER/BCA_BEARINGS": "MU 5214 L"
+  },
+  {
+    "CASE_CATERPILLAR": "5K 3929",
+
+    "BOWER/BCA_BEARINGS": "M 5214 CA"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "36690 - 36620"
+  },
+  {
+    "CASE_CATERPILLAR": "5K 3931",
+
+    "BOWER/BCA_BEARINGS": "  Y1S36620"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "HH932145"
+  },
+  {
+    "CASE_CATERPILLAR": "5K 3932",
+
+    "BOWER/BCA_BEARINGS": " HH932110"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "  HH932110EB"
+  },
+  {
+    "CASE_CATERPILLAR": "5K 4047",
+
+    "BOWER/BCA_BEARINGS": "HH932145"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": " HH932110"
+  },
+  {
+    "CASE_CATERPILLAR": "5K 6122",
+
+    "BOWER/BCA_BEARINGS": "  K312470"
+  },
+
+  {
+    "CASE_CATERPILLAR": "5K 7045",
+
+    "BOWER/BCA_BEARINGS": "6580 - 6535"
+  },
+  {
+    "CASE_CATERPILLAR": "5K 8591",
+
+    "BOWER/BCA_BEARINGS": "  Y2S6535"
+  },
+  {
+    "CASE_CATERPILLAR": "5K 8592",
+
+    "BOWER/BCA_BEARINGS": "6580 - 6535"
+  },
+  {
+    "CASE_CATERPILLAR": "5K 9060",
+
+    "BOWER/BCA_BEARINGS": "  Y3S6535"
+  },
+  {
+    "CASE_CATERPILLAR": "5K 9063",
+
+    "BOWER/BCA_BEARINGS": 67388
+  },
+  {
+    "CASE_CATERPILLAR": "5K 9522",
+
+    "BOWER/BCA_BEARINGS": " 67322D"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "  X2S67388"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "73562 - 73875"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "  Y1S73875"
+  },
+  {
+    "CASE_CATERPILLAR": "6K 2693",
+
+    "BOWER/BCA_BEARINGS": "316 S"
+  },
+
+  {
+    "CASE_CATERPILLAR": "6K 4184",
+
+    "BOWER/BCA_BEARINGS": "201  S"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "55437 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": 55437
+  },
+  {
+    "CASE_CATERPILLAR": "6K 4717",
+
+    "BOWER/BCA_BEARINGS": "55187C"
+  },
+  {
+    "CASE_CATERPILLAR": "6K 4718",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "55187C"
+  },
+  {
+    "CASE_CATERPILLAR": "6K 5528",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "6K 5529",
+
+    "BOWER/BCA_BEARINGS": "66187 CONE"
+  },
+
+  {
+    "CASE_CATERPILLAR": "7L 9321 ",
+
+    "BOWER/BCA_BEARINGS": "37425 - 37637"
+  },
+  {
+    "CASE_CATERPILLAR": "7L 9790",
+
+    "BOWER/BCA_BEARINGS": " 48190 - 48120"
+  },
+  {
+    "CASE_CATERPILLAR": "8L 2630",
+
+    "BOWER/BCA_BEARINGS": "  Y4S48120"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 1926 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "8L 4756",
+
+    "BOWER/BCA_BEARINGS": "MR 1926"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 1308 SAH"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "MU 1310 L"
+  },
+  {
+    "CASE_CATERPILLAR": "9L 264",
+
+    "BOWER/BCA_BEARINGS": "M 1010 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "9L 815",
+
+    "BOWER/BCA_BEARINGS": "M 5311 EL"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 343",
+
+    "BOWER/BCA_BEARINGS": 110
+  },
+
+  {
+    "CASE_CATERPILLAR": "1M 486",
+
+    "BOWER/BCA_BEARINGS": "MR 1014"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 618",
+
+    "BOWER/BCA_BEARINGS": "760 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 1604",
+
+    "BOWER/BCA_BEARINGS": "497 - 493D"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 1699",
+
+    "BOWER/BCA_BEARINGS": "  X3S497"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 1994",
+
+    "BOWER/BCA_BEARINGS": "207 FF"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 2236",
+
+    "BOWER/BCA_BEARINGS": "892 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "MS 1309"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 2246",
+
+    "BOWER/BCA_BEARINGS": "368 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 2247",
+
+    "BOWER/BCA_BEARINGS": "A 2083"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 2263",
+
+    "BOWER/BCA_BEARINGS": "M1308 N"
+  },
+
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 1308 SAH"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 3002",
+
+    "BOWER/BCA_BEARINGS": "385A - 382A"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 3041",
+
+    "BOWER/BCA_BEARINGS": "  Y1S382A"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 3100",
+
+    "BOWER/BCA_BEARINGS": "M 7315 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 3105",
+
+    "BOWER/BCA_BEARINGS": "MR 7315"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 3106",
+
+    "BOWER/BCA_BEARINGS": "MRS 1010"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 4095",
+
+    "BOWER/BCA_BEARINGS": "M 1010 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 4097",
+
+    "BOWER/BCA_BEARINGS": "R 1547 DHE"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 4120",
+
+    "BOWER/BCA_BEARINGS": "M 1207 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 5513",
+
+    "BOWER/BCA_BEARINGS": "LL510749"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 5514",
+
+    "BOWER/BCA_BEARINGS": "LL510710 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 6566",
+
+    "BOWER/BCA_BEARINGS": "98400 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 6567",
+
+    "BOWER/BCA_BEARINGS": "98788 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 6573",
+
+    "BOWER/BCA_BEARINGS": "18790 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 6574",
+
+    "BOWER/BCA_BEARINGS": "18720 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 6848",
+
+    "BOWER/BCA_BEARINGS": "18790 - 18720"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 6849",
+
+    "BOWER/BCA_BEARINGS": "  X1S18790"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 6850",
+
+    "BOWER/BCA_BEARINGS": "M 246949"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 6851",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 7911",
+
+    "BOWER/BCA_BEARINGS": "M 246910 "
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 7911 T",
+
+    "BOWER/BCA_BEARINGS": "RW 607 NR"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 7912",
+
+    "BOWER/BCA_BEARINGS": "39590 39520"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 8398",
+
+    "BOWER/BCA_BEARINGS": "  X1978-5"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 8735",
+
+    "BOWER/BCA_BEARINGS": "    X2022-6"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "MU 1309 L"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 8735 T",
+
+    "BOWER/BCA_BEARINGS": "M 7315 CAH"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "MU 7315 L"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 8736",
+
+    "BOWER/BCA_BEARINGS": "M 7320 DAH"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "MU 7320 L"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 8736 T",
+
+    "BOWER/BCA_BEARINGS": "M 1926 DA"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1M 8776",
+
+    "BOWER/BCA_BEARINGS": "37425 - 37625"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 8842",
+
+    "BOWER/BCA_BEARINGS": " 67425 - 67675"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 8923",
+
+    "BOWER/BCA_BEARINGS": "  Y2S37625"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 8924",
+
+    "BOWER/BCA_BEARINGS": "898A CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1M 8959",
+
+    "BOWER/BCA_BEARINGS": "MU 1321 LTN"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 99",
+
+    "BOWER/BCA_BEARINGS": "HM231148"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 533",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 534",
+
+    "BOWER/BCA_BEARINGS": "205 FF"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 1131",
+
+    "BOWER/BCA_BEARINGS": "205 FF"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 1148",
+
+    "BOWER/BCA_BEARINGS": "M 1310 N"
+  },
+
+  {
+    "CASE_CATERPILLAR": "2M 1149",
+
+    "BOWER/BCA_BEARINGS": "M 1310 SH"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 1151",
+
+    "BOWER/BCA_BEARINGS": "67786 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 1156",
+
+    "BOWER/BCA_BEARINGS": "495 - 493D"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 1157",
+
+    "BOWER/BCA_BEARINGS": "  X1S495"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 1921",
+
+    "BOWER/BCA_BEARINGS": "67985 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 1926",
+
+    "BOWER/BCA_BEARINGS": "95475 - 95925"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 2134",
+
+    "BOWER/BCA_BEARINGS": " 98400 - 98788"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 3515",
+
+    "BOWER/BCA_BEARINGS": "  X1S98400"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 3524",
+
+    "BOWER/BCA_BEARINGS": "M 1016 DAH"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "MR 1011"
+  },
+
+  {
+    "CASE_CATERPILLAR": "2M 3902",
+
+    "BOWER/BCA_BEARINGS": "3981 3925"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 3903",
+
+    "BOWER/BCA_BEARINGS": "  X1S3981"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 3904",
+
+    "BOWER/BCA_BEARINGS": "    Y1S3925"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 3924",
+
+    "BOWER/BCA_BEARINGS": "218 X3"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "33287 33472"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 4840",
+
+    "BOWER/BCA_BEARINGS": "  X1S33287"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 5669",
+
+    "BOWER/BCA_BEARINGS": "   Y2S33472"
+  },
+  {
+    "CASE_CATERPILLAR": "2M 6301",
+
+    "BOWER/BCA_BEARINGS": "308CC"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1P 3935",
+
+    "BOWER/BCA_BEARINGS": "3975 3925"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": " X1S3975"
+  },
+  {
+    "CASE_CATERPILLAR": "1P 4693",
+
+    "BOWER/BCA_BEARINGS": "  Y1S3925"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "MU 1216 L"
+  },
+  {
+    "CASE_CATERPILLAR": "1P 4694",
+
+    "BOWER/BCA_BEARINGS": 107
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "WU 61920 X"
+  },
+  {
+    "CASE_CATERPILLAR": "1P 5419",
+
+    "BOWER/BCA_BEARINGS": "W61920 DAH"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1P 5420",
+
+    "BOWER/BCA_BEARINGS": "L44613"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": " L44610"
+  },
+  {
+    "CASE_CATERPILLAR": "1P 6872",
+
+    "BOWER/BCA_BEARINGS": "  K106790R"
+  },
+  {
+    "CASE_CATERPILLAR": "1P 6873",
+
+    "BOWER/BCA_BEARINGS": "   K106789R"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M236849"
+  },
+  {
+    "CASE_CATERPILLAR": "1P 6874",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M236810 "
+  },
+  {
+    "CASE_CATERPILLAR": "1P 9365",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "HM516449"
+  },
+  {
+    "CASE_CATERPILLAR": "1P 7111",
+
+    "BOWER/BCA_BEARINGS": " HM516410"
+  },
+  {
+    "CASE_CATERPILLAR": "1P 7834",
+
+    "BOWER/BCA_BEARINGS": "  HM516449XC"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "HM516410ES"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1P 7835",
+
+    "BOWER/BCA_BEARINGS": ""
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "48120 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1P 7895",
+
+    "BOWER/BCA_BEARINGS": "48190 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "LM67048"
+  },
+  {
+    "CASE_CATERPILLAR": "1P 7896",
+
+    "BOWER/BCA_BEARINGS": " LM67010"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "  K106817R"
+  },
+  {
+    "CASE_CATERPILLAR": "1P 8138",
+
+    "BOWER/BCA_BEARINGS": "   K106610R"
+  },
+  {
+    "CASE_CATERPILLAR": "1P 9593",
+
+    "BOWER/BCA_BEARINGS": ""
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "659 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1P 9594",
+
+    "BOWER/BCA_BEARINGS": "652A CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "MR 1015"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 249",
+
+    "BOWER/BCA_BEARINGS": "1311 G"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 1370",
+
+    "BOWER/BCA_BEARINGS": ""
+  },
+  {
+    "CASE_CATERPILLAR": "2P 1372",
+
+    "BOWER/BCA_BEARINGS": "1311 G"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 1373",
+
+    "BOWER/BCA_BEARINGS": "212 X3"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "205 FF"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 1374",
+
+    "BOWER/BCA_BEARINGS": "M 1015 EAHL"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "WA 61918"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 1381",
+
+    "BOWER/BCA_BEARINGS": "W 61918 EAHX"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 1823",
+
+    "BOWER/BCA_BEARINGS": ""
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 1926 EAHJ"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 1824",
+
+    "BOWER/BCA_BEARINGS": 34306
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": " 34492A"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 2810",
+
+    "BOWER/BCA_BEARINGS": "  X3S34306"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 2811",
+
+    "BOWER/BCA_BEARINGS": "   Y1S34492"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 2823",
+
+    "BOWER/BCA_BEARINGS": "M 1207 EL"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "W 61914"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 4649",
+
+    "BOWER/BCA_BEARINGS": "DAH"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "WU 61914X"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 4651",
+
+    "BOWER/BCA_BEARINGS": "WRB67220"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "W 67220 EAHX"
+  },
+
+  {
+    "CASE_CATERPILLAR": "2P 8100",
+
+    "BOWER/BCA_BEARINGS": "ROJ 1310 J"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 8101",
+
+    "BOWER/BCA_BEARINGS": "209 X3"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 8119",
+
+    "BOWER/BCA_BEARINGS": ""
+  },
+  {
+    "CASE_CATERPILLAR": "2P 8120",
+
+    "BOWER/BCA_BEARINGS": 109
+  },
+  {
+    "CASE_CATERPILLAR": "2P 8482",
+
+    "BOWER/BCA_BEARINGS": "14276 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 8986",
+
+    "BOWER/BCA_BEARINGS": "14125A"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 8987",
+
+    "BOWER/BCA_BEARINGS": 316
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "MS 1209"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 8988",
+
+    "BOWER/BCA_BEARINGS": "XLS 3 - 3 / 4 G"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "XLS 4-1/2 1G"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 8989",
+
+    "BOWER/BCA_BEARINGS": ""
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 1310 CAH"
+  },
+  {
+    "CASE_CATERPILLAR": "2P 9091",
+
+    "BOWER/BCA_BEARINGS": ""
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "W 61036 CB"
+  },
+  {
+    "CASE_CATERPILLAR": "3P 951",
+
+    "BOWER/BCA_BEARINGS": "WUC 61036 X"
+  },
+  {
+    "CASE_CATERPILLAR": "3P 952",
+
+    "BOWER/BCA_BEARINGS": ""
+  },
+  {
+    "CASE_CATERPILLAR": "3P 953",
+
+    "BOWER/BCA_BEARINGS": "W 62222 EAHX"
+  },
+  {
+    "CASE_CATERPILLAR": "3P 1210",
+
+    "BOWER/BCA_BEARINGS": ""
+  },
+  {
+    "CASE_CATERPILLAR": "3P 2549",
+
+    "BOWER/BCA_BEARINGS": "WR 62222"
+  },
+  {
+    "CASE_CATERPILLAR": "3P 6369",
+
+    "BOWER/BCA_BEARINGS": "W 67217 EAHX"
+  },
+
+  {
+    "CASE_CATERPILLAR": "3P 6370",
+
+    "BOWER/BCA_BEARINGS": "WRB 67217"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "WAB 61918"
+  },
+  {
+    "CASE_CATERPILLAR": "3P 6371",
+
+    "BOWER/BCA_BEARINGS": ""
+  },
+  {
+    "CASE_CATERPILLAR": "3P 6372",
+
+    "BOWER/BCA_BEARINGS": "W 68220 EAHX"
+  },
+  {
+    "CASE_CATERPILLAR": "3P 8680",
+
+    "BOWER/BCA_BEARINGS": ""
+  },
+  {
+    "CASE_CATERPILLAR": "3P 8681",
+
+    "BOWER/BCA_BEARINGS": "XC2312 CB"
+  },
+  {
+    "CASE_CATERPILLAR": "4P 2393",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "5P 117",
+
+    "BOWER/BCA_BEARINGS": "206 G"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "M 1313 EL"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "MR 1214"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "WR 61918"
+  },
+
+  {
+    "CASE_CATERPILLAR": "8S 9076",
+
+    "BOWER/BCA_BEARINGS": "HM 801346"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "8S 9151",
+
+    "BOWER/BCA_BEARINGS": "LL352149"
+  },
+  {
+    "CASE_CATERPILLAR": "8S 9152",
+
+    "BOWER/BCA_BEARINGS": "  LL352110"
+  },
+  {
+    "CASE_CATERPILLAR": "8S 9186",
+
+    "BOWER/BCA_BEARINGS": "LL641149"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "  LL641110"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "LM67048"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 843",
+
+    "BOWER/BCA_BEARINGS": " LM67010"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 2540",
+
+    "BOWER/BCA_BEARINGS": "  K106617R"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 3581",
+
+    "BOWER/BCA_BEARINGS": "HM801310 "
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 3582",
+
+    "BOWER/BCA_BEARINGS": "HM801436"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 4085",
+
+    "BOWER/BCA_BEARINGS": "LL352149"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 4762",
+
+    "BOWER/BCA_BEARINGS": "  LL352110"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 4829",
+
+    "BOWER/BCA_BEARINGS": "18520 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 5278",
+
+    "BOWER/BCA_BEARINGS": "18590 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 5279",
+
+    "BOWER/BCA_BEARINGS": "55200 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 5360",
+
+    "BOWER/BCA_BEARINGS": "H913810 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 6575",
+
+    "BOWER/BCA_BEARINGS": "H913849"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 6924",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+
+  {
+    "CASE_CATERPILLAR": "9S 6963",
+
+    "BOWER/BCA_BEARINGS": "3982 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 7949",
+
+    "BOWER/BCA_BEARINGS": 29685
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": " 29682D"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 7950",
+
+    "BOWER/BCA_BEARINGS": "  X2S29685"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "3975 - 3920"
+  },
+  {
+    "CASE_CATERPILLAR": "9S 8669",
+
+    "BOWER/BCA_BEARINGS": " Y3S3920"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 28",
+
+    "BOWER/BCA_BEARINGS": "3975 - 3920"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 28 T",
+
+    "BOWER/BCA_BEARINGS": " Y3S3920"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 41",
+
+    "BOWER/BCA_BEARINGS": "48385 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 43",
+
+    "BOWER/BCA_BEARINGS": "48320 CUP"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1T 58",
+
+    "BOWER/BCA_BEARINGS": 20918
+  },
+  {
+    "CASE_CATERPILLAR": "1T 59",
+
+    "BOWER/BCA_BEARINGS": " 28622B"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 59 T",
+
+    "BOWER/BCA_BEARINGS": "  HM807046"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 86",
+
+    "BOWER/BCA_BEARINGS": "47681 47687"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 100",
+
+    "BOWER/BCA_BEARINGS": " '47620"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 163",
+
+    "BOWER/BCA_BEARINGS": "  X1S47681"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 209",
+
+    "BOWER/BCA_BEARINGS": 33985
+  },
+  {
+    "CASE_CATERPILLAR": "1T 209 T",
+
+    "BOWER/BCA_BEARINGS": " '338208"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 210",
+
+    "BOWER/BCA_BEARINGS": "  HM807049"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 267",
+
+    "BOWER/BCA_BEARINGS": "   HM807011"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": " HM807049XA"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 295",
+
+    "BOWER/BCA_BEARINGS": "39580 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 299",
+
+    "BOWER/BCA_BEARINGS": "594-592XS"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 299T",
+
+    "BOWER/BCA_BEARINGS": " 595592XS"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 302",
+
+    "BOWER/BCA_BEARINGS": "46790 46720"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 307",
+
+    "BOWER/BCA_BEARINGS": " X4S46790"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 334",
+
+    "BOWER/BCA_BEARINGS": "  Y4S46720"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 337",
+
+    "BOWER/BCA_BEARINGS": "593 592XS"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 425",
+
+    "BOWER/BCA_BEARINGS": " X6S593"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 425 T",
+
+    "BOWER/BCA_BEARINGS": "   Y2S592XS"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 433",
+
+    "BOWER/BCA_BEARINGS": "HM321245"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 433 T",
+
+    "BOWER/BCA_BEARINGS": "HM321210"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 434",
+
+    "BOWER/BCA_BEARINGS": "67887 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "67787 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 434 T",
+
+    "BOWER/BCA_BEARINGS": "HM804010"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 440",
+
+    "BOWER/BCA_BEARINGS": "HM804848"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 441",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 529",
+
+    "BOWER/BCA_BEARINGS": "67322 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 532",
+
+    "BOWER/BCA_BEARINGS": "67388 CONE"
+  },
+
+  {
+    "CASE_CATERPILLAR": "1T 542",
+
+    "BOWER/BCA_BEARINGS": "497 CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 532 T",
+
+    "BOWER/BCA_BEARINGS": "HM218248"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 564",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 564 T",
+
+    "BOWER/BCA_BEARINGS": "HM218210"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 589",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 590",
+
+    "BOWER/BCA_BEARINGS": "HM259048"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 610",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 610 T",
+
+    "BOWER/BCA_BEARINGS": "HM259010"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 631",
+
+    "BOWER/BCA_BEARINGS": "CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 631 T",
+
+    "BOWER/BCA_BEARINGS": "29675 - 29624"
+  },
+  {
+    "CASE_CATERPILLAR": "",
+
+    "BOWER/BCA_BEARINGS": "  X2186-6"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 678",
+
+    "BOWER/BCA_BEARINGS": "JM716649"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 728",
+
+    "BOWER/BCA_BEARINGS": " JM716610"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 769",
+
+    "BOWER/BCA_BEARINGS": "  M716610EA"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 810",
+
+    "BOWER/BCA_BEARINGS": "M12610 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 881",
+
+    "BOWER/BCA_BEARINGS": "M12649"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 882",
+
+    "BOWER/BCA_BEARINGS": "CONE"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 968",
+
+    "BOWER/BCA_BEARINGS": "93125 CUP"
+  },
+  {
+    "CASE_CATERPILLAR": "1T 994",
+
+    "BOWER/BCA_BEARINGS": "93800 CONE"
+  }
+]
