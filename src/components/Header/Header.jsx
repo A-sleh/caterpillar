@@ -23,17 +23,14 @@ export default function Header() {
 
     return (
         <>
-            {
-                isVisibale && 
-                <div className='header-one' ref={headerOneRef}>
-                    <div className='header-one-info'>
-                        <span>Syria</span>
-                        <img src={syriaFlag} alt="" width={"20xpx"}  />
-                        <span> / Arabic</span>
-                    </div>
-                    <img src={catLogo_2} alt="" width={"100px"}  height={'26px'}/>
+            <div className='header-one' ref={headerOneRef}>
+                <div className='header-one-info'>
+                    <span>Syria</span>
+                    <img src={syriaFlag} alt="" width={"20xpx"}  />
+                    <span> / Arabic</span>
                 </div>
-            }
+                <img src={catLogo_2} alt="" width={"100px"}  height={'26px'}/>
+            </div>
             <div className='header-two' >
                 <img src={catLogo} alt=""  width={'50px'}/>
                 <button className={isOpen ? "hamburger hamburger--elastic js-hamburger is-active" : 'hamburger hamburger--elastic js-hamburger'} type="button" onClick={()=> dispatch(toggleState()) }>
